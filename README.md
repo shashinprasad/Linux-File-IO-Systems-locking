@@ -1,6 +1,6 @@
 # Ex07-Linux File-IO Systems-locking
-# Name: Ashwin Akash M
-# Reference Number: 212223230024
+# Name: Shashin prasad S
+# Reference Number: 212222230144
 # Department: Artificial Intelligence And Data Science
 # AIM:
 To Write a C program that illustrates files copying and locking
